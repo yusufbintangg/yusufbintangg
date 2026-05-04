@@ -34,10 +34,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yusufbintangg&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbintangg&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=yusufbintangg&theme=tokyonight&hide_border=true)
 
 ---
@@ -57,8 +53,6 @@
 > 🎯 **ROAS 55x** — Rp1.4M ad spend → Rp78M store revenue  
 > Meta Ads campaign for a fashion brand in Semarang (Feb–Mar 2026)
 
----
-![Snake animation](https://github.com/yusufbintangg/yusufbintangg/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📬 Contact
