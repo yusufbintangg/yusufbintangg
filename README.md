@@ -57,6 +57,9 @@
 > Meta Ads campaign for a fashion brand in Semarang (Feb–Mar 2026)
 
 ---
+![Snake animation](https://github.com/yusufbintangg/yusufbintangg/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 📬 Contact
 
