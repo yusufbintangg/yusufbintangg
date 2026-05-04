@@ -58,7 +58,6 @@
 
 ---
 ![Snake animation](https://github.com/yusufbintangg/yusufbintangg/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📬 Contact
